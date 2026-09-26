@@ -22,7 +22,7 @@ where the data turned out to have almost no signal — that is reported too.
 
 ---
 
-## Results at a Glance
+## Results Summary
 
 | Notebook | Problem | Data | Baseline | Best model | Result | Δ vs baseline |
 |---|---|---|---|---|---|---|
